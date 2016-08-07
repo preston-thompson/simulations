@@ -1,6 +1,6 @@
 # gravity
 
-Naive two dimensional gravity simulation. Uses the Euler method for integration.
+Naive two dimensional gravity simulation of particles. Uses the Euler method for integration.
 
 ## Building
 
